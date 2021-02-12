@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-09T09:48:40Z" name="Default suite" finished-at="2021-02-09T09:58:38Z" duration-ms="597703">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-02-09T09:48:40Z" name="Default test" finished-at="2021-02-09T09:58:38Z" duration-ms="597703">
+      <class name="Testrunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:18:40Z" name="setUpClass" test-instance-name="" finished-at="2021-02-09T15:18:41Z" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:18:41Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:18:41Z" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Change password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:18:41Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:18:41Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Checkout]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:18:41Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:18:41Z" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Community poll]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:18:41Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:19:37Z" duration-ms="56118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Connecting with other applications]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:19:37Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:21:39Z" duration-ms="121696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CustomerService]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:21:39Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:21:39Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Forgot Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:21:39Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:24:15Z" duration-ms="156350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Application Information]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:24:15Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:25:48Z" duration-ms="93042" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To show user account details]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:25:48Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:25:48Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Newsletter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:25:48Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:26:28Z" duration-ms="39953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Searching a product]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:26:28Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:26:28Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[open application]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:26:28Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:26:28Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Viewing products in shopping cart]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:26:28Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:26:28Z" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Viewing products by filtering price]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:26:28Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="129166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login to application]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:28:38Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Logout]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:28:38Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Registering new user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:28:38Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Viewing products by sorting]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:28:38Z" name="feature" description="Runs Cucumber Feature" data-provider="features" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Viewing products by grid or list]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Testrunner@4a83a74a]" started-at="2021-02-09T15:28:38Z" name="tearDownClass" test-instance-name="" finished-at="2021-02-09T15:28:38Z" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Testrunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,59 @@
+INFO - user enters valid Registration details system enters into home page
+FATAL - user enters invalid  Registration details system displayes enter valid details
+FATAL - user didnt enter any values and performed registration and system shows error  
+INFO - user enters valid login details system enters into home page
+FATAL - user enters invalid  login details system displayes enter valid details
+FATAL - user didnt enter any values in username and password 
+INFO - user enters emailid and the email is sent to his mail
+FATAL - user enters invalid email and system shows error
+FATAL - user didnt enter any mail and system shows error
+INFO - user search for valid product in the search tab and system displays valid product
+FATAL - user search for a invalid product and system shows item is not present
+FATAL - user search a product with singleword the system doesnt show any product
+INFO - user selects Electronics and system displays Electronics category
+INFO - user selects Books and system displays Books category
+INFO - user selects Computer and system displays sesktop Computer
+INFO - user selects Appearel&shoes and system displays Appearel&shoes category
+INFO - user selects DigitalDownloads and system displays Digital downloads
+INFO - user selects Jewallary and system displays Jewallary category
+INFO - user selects Giftcards and system displays Giftcards
+INFO - user selected view as list to view products as list
+INFO - user selected view as grid to view products as grid
+INFO - user selects filter by costs below 1000 and system displays accordingly
+INFO - user selects filter by costs between 1000 to 1200 and system displays accordingly
+INFO - user selects filter by costs above 1200 and system displays accordingly
+INFO - user selects filter by position and system displays accordingly
+INFO - user selects filter by Name A-Z and system displays accordingly
+INFO - user selects filter by Name Z-A and system displays accordingly
+INFO - user add items to cart
+INFO - user updated the quantity of products in wishlist
+INFO - user updates the shipping cart and system shows the updated cart
+INFO - user checkout his details,address,payment and confirms order
+INFO - user selected trencities to show about manufactures
+INFO - User selected youtube and System displays youtube
+INFO - User selected rss and System displays rss
+INFO - User selected twitter and System displays twitter
+INFO - User selected facebook and System displays facebook
+INFO - User selected google+ and System displays google+
+INFO - User selected news and System displays news
+INFO - User selected blog and System displays blog
+INFO - User selected recently viewed product and System displays recently viewed product
+INFO - User selected compare products list and System displays compare products list
+INFO - User selected News product and System displays News product
+INFO - User selected sitemap and System displays sitemap
+INFO - User selected Shipping&returns and System displays Shipping&returns
+INFO - User selected Privacy Notice and System displays Privacy Notice
+INFO - User selected Conditions of use and System displays Condition of use
+INFO - User selected About us and System displays About us
+INFO - User selected Contact us and System displays Contact us
+INFO - User selected Myaccount and System displays Myaccount
+INFO - user enters same password and confirm password
+FATAL - user enters different password as password and confirm password
+INFO - User selected orders and System displays orders
+INFO - User selected Addresses and System displays Addresses
+INFO - user enters valid email in newsletter and subscribbed
+FATAL - user enters invalid email in newsletter and subscribbed
+INFO - user perform logout and user logged out of demo web shop
+INFO - User selects good in community poll after login
+FATAL - User selects good in community poll without login
+FATAL - User doesnt selects anything in community poll 
